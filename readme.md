@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/elisa-diaz-cortes-25b308207/" target="blank">
       <img align="center" src="https://i.pinimg.com/originals/fa/1f/5b/fa1f5b2e196350cecadd3ab070cf41d3.png" alt="url-de-linkedin" height="40" width="40" />
   </a>
-<p height="35" width="10px"></p><a href="https://www.behance.net/elisadiazart/projects" target="blank">
+  <a href="https://www.behance.net/elisadiazart/projects" target="blank">
       <img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="url-de-linkedin" height="38" width="38"  />
   </a>
    
