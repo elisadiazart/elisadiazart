@@ -3,7 +3,7 @@
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Elisa Diaz</h1>
 
-- 🌱 ESTOY ESTUDIANDO DESARROLLO WEB FRONT-END (CSS, HTML, JAVASCRIPT...)
+- 🌱 ESTOY ESTUDIANDO DESARROLLO WEB FRONT-END (CSS, HTML, JAVASCRIPT, REACT...)
 
 - ✨ TENGO TAMBIÉN FORMACION EN ILUSTRACIÓN, DISEÑO GRÁFICO Y DISEÑO UI.
 
