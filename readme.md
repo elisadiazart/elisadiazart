@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](https://media.licdn.com/dms/image/C4E16AQGjlESVomzy7Q/profile-displaybackgroundimage-shrink_350_1400/0/1658515602141?e=1681344000&v=beta&t=FYqiTLewe9_amHmkImrfYaLAKwG7oTYKe5BcLmxUc8U)
+![Imagen decorativa de tu perfil]([https://media.licdn.com/dms/image/C4E16AQGjlESVomzy7Q/profile-displaybackgroundimage-shrink_350_1400/0/1658515602141?e=1681344000&v=beta&t=FYqiTLewe9_amHmkImrfYaLAKwG7oTYKe5BcLmxUc8U](https://media.licdn.com/dms/image/C4E16AQGjlESVomzy7Q/profile-displaybackgroundimage-shrink_350_1400/0/1658515602141?e=1687392000&v=beta&t=DYkjigXPuthPtdGSSQnBIo42iwSgrNhdBcP_sbp1if0))
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Elisa Diaz</h1>
